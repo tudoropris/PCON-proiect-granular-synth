@@ -20,7 +20,13 @@
 
 # Dezvoltarea proiectului
 
-Procesul este următorul (inspirat de [aici](https://cs.anu.edu.au/courses/comp1720/deliverables/05-major-project/#submission-process))
+Pentru început:
+
+1. Creează-ți cont pe Github
+2. Download și install [Github Desktop](https://desktop.github.com/)
+3. Citește [acest ghid](https://charlesmartin.com.au/blog/2020/08/09/student-project-repository) și ține la îndemână [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+
+Apoi, procesul este următorul (inspirat de [aici](https://cs.anu.edu.au/courses/comp1720/deliverables/05-major-project/#submission-process))
 
 1. *fork* al acestui template către propriul tău cont de Github
 
