@@ -32,6 +32,8 @@ Apoi, procesul este următorul (inspirat de [aici](https://cs.anu.edu.au/courses
 
 ![](assets/fork.gif)
 
+_(dacă preferi cumva ca repo-ul să nu fie vizibil de către public, îl poți seta ca Private din Settings. Atunci trebuie să mă adaugi drept colaborator, ca eu să am acces.)_
+
 2. *clone* al repo-ului din contul tău pentru a-l downloada local
 
 ![](assets/clone.gif)
