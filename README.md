@@ -1,4 +1,4 @@
-# (Titlu)
+# (Titlul)
 (Scurtă descriere)
 
 ## (Instalare)
