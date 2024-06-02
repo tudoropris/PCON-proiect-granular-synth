@@ -8,11 +8,11 @@ Este suficienta deschiderea patcherului *granular.maxpat* in MaxMSP.
 
 ## (Utilizare)
 
-In prima faza se incarca un fisier audio din stocarea locala si se seteaza avelopa dorita:
+In prima faza se incarca un fisier audio din stocarea locala si se seteaza anvelopa dorita:
 ![](assets/max_1.gif)
 
 Apoi se pot configura parametrii granulei de sunet:
-![](assets/max_2.gif])
+![](assets/max_2.gif)
 
 ## (Istoric)
 
